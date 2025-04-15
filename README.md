@@ -92,6 +92,14 @@ This component processes a football match video, extracting individual frames to
    - **Matplotlib** visualizes the positions and formations.
 3. Output a sequence of annotated frames or a summary video showing the tactical analysis.
 
+---
+
+## Demo Video
+
+Watch the demo of the Football Analytics project:
+
+![Football Analytics Demo](Streamlit\outputs\Demo_1_result.gif)
+
 
 ## Requirements
 

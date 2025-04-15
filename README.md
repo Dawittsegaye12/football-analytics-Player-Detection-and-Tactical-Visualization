@@ -98,7 +98,7 @@ This component processes a football match video, extracting individual frames to
 
 Watch the demo of the Football Analytics project:
 
-![Football Analytics Demo](Streamlit%20web%20app/outputs/Demo_1_result.mp4)
+![Football Analytics Demo](Streamlit%20web%20app/outputs/Demo_1_result.gif)
 
 
 ## Requirements
